@@ -1,0 +1,51 @@
+
+body{
+    background-image: url(https://heybus.com.ua/source/blog/perevagi_ta_nedoliki_podorozi_avtobusom.jpg);
+    background-size: cover;
+    
+}
+
+h1 ,h2{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(226, 43, 202);
+}
+div{
+    
+    border: 2px solid black;
+    padding: 15px 20px;
+    text-align: center;
+    color:white;
+}
+select{
+    width: 100%;
+    cursor: pointer;
+    border: 2px solid black;
+    padding: 10px 15px;
+    margin: 10px 0px;
+    box-sizing: border-box;
+}
+input{
+    padding: 10px 15px;
+    border: 2px solid black;
+    margin: 10px 0px;
+    width: 100%;
+    box-sizing: border-box;
+}
+button{
+    padding: 10px 15px;
+    margin: 10px 15px;
+    cursor: pointer;
+    border: 2px solid black;
+}
+button:hover{
+    color: navy;
+    opacity: 0.7;
+}
+select:hover, input:hover{
+    color: navy;
+    opacity: 0.7;
+}
+textarea{
+    width: 100%;
+}
